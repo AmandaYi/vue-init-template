@@ -1,0 +1,19 @@
+{
+  "name": "ggvue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmandaYi/ggvue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmandaYi/ggvue/issues"
+  },
+  "homepage": "https://github.com/AmandaYi/ggvue#readme"
+}
