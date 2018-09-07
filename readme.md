@@ -1,4 +1,4 @@
-# vue_init_h5_web_vw
+# ggvue
 
 ## Project setup
 ```
